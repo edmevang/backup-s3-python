@@ -14,3 +14,6 @@ deletar os arquivos locais
 
 executar todos os processos
 
+
+-------------
+
