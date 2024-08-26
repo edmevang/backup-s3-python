@@ -13,7 +13,3 @@ fazer o upload dos arquivos para s3
 deletar os arquivos locais
 
 executar todos os processos
-
-
--------------
-
